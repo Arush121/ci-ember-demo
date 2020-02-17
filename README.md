@@ -58,5 +58,8 @@ Specify what it takes to deploy your app.
 
 
 
+Testing this for circle ci initiations
+
+
 
 [![CircleCI](https://circleci.com/gh/Arush121/ci-ember-demo.svg?style=svg)](https://circleci.com/gh/Arush121/ci-ember-demo)
