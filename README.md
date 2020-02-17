@@ -55,3 +55,10 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+  
+  
+  
+  
+  
+  
+  [![CircleCI](https://circleci.com/gh/Arush121/ci-ember-demo.svg?style=svg)](https://circleci.com/gh/Arush121/ci-ember-demo)
